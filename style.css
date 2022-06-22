@@ -1,0 +1,20 @@
+body{
+background-color: cornflowerblue;
+color: gold;
+font-family: 'Alex Brush', cursive;
+font-family: 'Cedarville Cursive', cursive;
+font-size: 27px;
+}
+.heading{
+font-size: 35px;
+width: 80%;
+}
+.name_of_objects{
+    font-size: 30px;
+}
+#camera{
+    border:4.5px solid gold;
+    width: 350px;
+    height: 300;
+    
+}
